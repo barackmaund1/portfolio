@@ -1,5 +1,15 @@
-body {font-family: Arial, Helvetica, sans-serif;}
-
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.portfolio{
+   display: block; 
+   /* position: relative; */
+}
+.portfolio .image{
+    /* position: absolute;
+    left: 30%; */
+    text-align: center;
+}
 .navbar {
   width: 100%;
   background-color: #555;
@@ -7,11 +17,12 @@ body {font-family: Arial, Helvetica, sans-serif;}
 }
 
 .navbar a {
-  float: left;
-  padding: 12px;
+ float: right;
+  padding: 20px;
   color: white;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 25px;
+  margin-right: 10%;
 }
 
 .navbar a:hover {
