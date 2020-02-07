@@ -107,3 +107,20 @@ color: violet;
   color: #33383b;
   -ms-text-size-adjust:5 ;
 }
+.footer-content-section-contact ul{
+  list-style: none;
+  display:block ;
+  background-color:burlywood;
+  height:5% ;
+}
+.footer-content-section-contact ul .email{
+  margin: 20px;
+  padding: 10px;
+}
+.number{
+  margin: 2px;
+  padding: 5px;
+} 
+.footer-bottom{
+  text-align: center;
+}
