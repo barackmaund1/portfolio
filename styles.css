@@ -55,11 +55,12 @@ body {
   background-color:white;
   color: black;
 }
+/* footer */
 .footer  .footer-content{
   display: flex;
   flex-flow: row wrap; 
   padding: 30px 30px 20px 30px;
-  color:wheat;
+  color:white;
   background-color: #555;
   border-top: 1px solid #e5e5e5;
   justify-content: center;
@@ -71,7 +72,7 @@ body {
 }
 .footer{
   background-color: #33383b;
-  color: #5c66b5;
+  color:white;
 }
 .footer-content-section .span{
 color: violet;
@@ -79,8 +80,6 @@ color: violet;
 .footer-content-section-icon ul{
   list-style-type: none;
   display: inline;
-  /* padding:3px;
-  margin:5px ; */
 }
 .footer-content-section-icon ul li{
   text-decoration: none;
