@@ -132,3 +132,7 @@ h1{
   display: flex;
   
 }
+.project .container{
+  border:5px solid gray ;
+  margin:12px ;
+}
