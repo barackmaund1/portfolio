@@ -3,13 +3,11 @@ body {
 }
 .portfolio{
    display: block; 
-   /* position: relative; */
 }
 .portfolio .image{
-    /* position: absolute;
-    left: 30%; */
     text-align: center;
 }
+/* Navigation bar */
 .navbar {
   width: 100%;
   background-color: #555;
@@ -38,4 +36,22 @@ body {
     float: none;
     display: block;
   }
+}
+/* Main content */
+.about{
+    display:flex ;
+    width: 100%;
+}
+ .about .me{
+    flex:1 ;
+    height:100%;
+    border:5px solid wheat;
+    margin: 30px;
+    box-sizing: border-box;
+    border-radius:1% ;
+    box-shadow:5px 5px 2px grey ;
+} 
+#me{
+  background-color:white;
+  color: black;
 }
