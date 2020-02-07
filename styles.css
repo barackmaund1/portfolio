@@ -123,3 +123,12 @@ color: violet;
 .footer-bottom{
   text-align: center;
 }
+/* project.html */
+h1{
+  font-size: x-large;
+  text-align: center;
+}
+.project{
+  display: flex;
+  
+}
