@@ -11,7 +11,7 @@ body {
 /* Navigation bar */
 .navbar {
   width: 100%;
-  background-color: #555;
+  background-color: tan;
   overflow: auto;
   position: fixed;
   left: 0;
@@ -33,8 +33,8 @@ body {
   background-color: #000;
 }
 
-.active {
-  background-color: #4CAF50;
+/* .active {
+  background-color: #4CAF50; */
 }
 
 @media screen and (max-width: 500px) {
